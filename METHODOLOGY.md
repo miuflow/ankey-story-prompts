@@ -1,5 +1,21 @@
 # Methodology: Life Anchor & SEL Story Generation
 
+## Product Philosophy / 产品哲学
+
+将孩子今天亲身经历的事，变成今晚的睡前故事。教育最有效的时机，就在孩子真实经历之后。用孩子熟悉的角色和世界包装教训，让每一次生活瞬间，都变成孩子成长的力量。
+
+> Turn what happened today into tonight's story. The most effective educational moment is right after the child's real experience. Wrapped in their favorite characters and worlds, every life moment becomes the power of growth.
+
+### One-Minute Four-Step Flow
+
+```
+今天发生了什么？  →  孩子最近喜欢什么？
+(Record the event)   (Interest = gateway)
+       ↓                    ↓
+今晚讲什么？      →   时机 + 效果
+(Choose & generate)    (Push to story box)
+```
+
 ## Life Anchor Theory
 
 The **Life Anchor** approach is based on the insight that the most effective educational moments for young children (ages 3-6) occur within a **6-hour golden window** after a real-life event. When a child experiences something emotionally significant — a conflict, a triumph, a frustration — their brain is primed to absorb related lessons.
