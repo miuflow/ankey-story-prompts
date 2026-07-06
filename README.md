@@ -41,6 +41,10 @@ These prompts power [Ankey (小锚)](https://www.miuflow.com/ankey/) — a live 
 └──────────┘
 ```
 
+> ⚡ **提示 vs 小程序**：你可以把这些提示词复制到任何 LLM 中手动使用。但更方便的方式是直接用「小锚助手」小程序——它集成了事件录入、SEL 自动映射、故事梗概预览、一键语音合成、故事盒推送，家长只需一分钟就能完成全部操作。
+>
+> ⚡ **Prompt vs Mini Program**: You can copy these prompts into any LLM and use them manually. But the more integrated way is the Ankey Mini Program — it bundles event logging, SEL mapping, outline preview, one-click TTS, and story box push. All done in one minute.
+
 ## 提示词用途 / Prompt Usage
 
 两阶段流水线：
